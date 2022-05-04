@@ -1,5 +1,6 @@
 # Chapter 2
-Add API Gateway endpoint and configure it.
+Add API Gateway endpoint and configure it. 
+A bitcoin app to fetch coin prices.
 
 ## add API endpoint
 In the `amplify/backend/function/<function name>/src/app.js`, add a new route endpoint.
